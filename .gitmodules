@@ -1,0 +1,9 @@
+[submodule "work/ai/maybeai-uni/fastestai-api"]
+	path = work/ai/maybeai-uni/fastestai-api
+	url = git@github.com:fastestai/fastestai-api.git
+[submodule "work/ai/maybeai-uni/fastestai-playground"]
+	path = work/ai/maybeai-uni/fastestai-playground
+	url = https://github.com/fastestai/fastestai-playground.git
+[submodule "work/ai/maybeai-uni/omnimcp-be"]
+	path = work/ai/maybeai-uni/omnimcp-be
+	url = git@github.com:OmniMCP-AI/omnimcp-be.git
